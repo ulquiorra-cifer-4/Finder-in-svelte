@@ -16,7 +16,8 @@ A real filesystem lives on disk. A *virtual* filesystem lives in memory (and loc
 No server. No database. No backend. Pure browser.
 
 ---
-
+> ⚠️ **Note:** This is not a standalone deployable web app.
+> It is a single component extracted from [macOS Tahoe Web](https://macostahoeweb.vercel.app/) — meant purely for studying how a browser VFS works.
 ## File Structure
 
 ```
