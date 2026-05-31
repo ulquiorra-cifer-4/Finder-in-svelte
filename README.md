@@ -142,4 +142,4 @@ The dev server runs a standalone Finder — no macOS shell needed.
 
 ## Credits
 
-Built by [Nx4real](https://github.com/ulquiorra-cifer-4) as part of the **macOS Tahoe Web** project — a browser-based macOS emulator that outperforms the popular puruVJ macOS web clone in features, animation quality, and app completeness.
+Built by [Nx4real](https://github.com/neelpatel112) as part of the **macOS Tahoe Web** project...
